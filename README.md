@@ -13,6 +13,6 @@ Twitter: [@Masstrix](https://twitter.com/Masstrix)
 
 <h2 align="center">Stats</h2>
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Masstrix&count_private=true&show_icons=true&theme=dark" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masstrix&theme=dark&layout=compact&langs_count=6" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Masstrix&count_private=true&show_icons=true&theme=dark" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masstrix&theme=dark&layout=compact&langs_count=6" />
 </p>
