@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Masstrix/Masstrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Matthew, normally I'm working on Websites, Spigot Plugins & Front End Designs.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on various projects both open-source and private. <br>
+🌱 I’m currently learning a bit of everything. <br>
+😄 Pronouns: he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### How to reach me
+Discord: Matthew#2680<br>
+SpigotMC: [Start a new conversation](http://www.spigotmc.org/conversations/add?to=Masstrix)<br>
+Twitter: [@Masstrix](https://twitter.com/Masstrix)
+
+<h2 align="center">Stats</h2>
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Masstrix&count_private=true&show_icons=true&theme=dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masstrix&theme=dark&layout=compact&langs_count=6" />
+</p>
