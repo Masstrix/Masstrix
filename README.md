@@ -1,18 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm Matthew, normally I'm working on Websites, Spigot Plugins & Front End Designs.
+I'm Matthew, I'm an artist who enjoys spending some time working on both creative and technical projects.
 
-🔭 I’m currently working on various projects both open-source and private. <br>
-🌱 I’m currently learning a bit of everything. <br>
-😄 Pronouns: he/him
+🌱 Always learning something new. <br>
 
-#### How to reach me
-Discord: Matthew#2680<br>
-SpigotMC: [Start a new conversation](http://www.spigotmc.org/conversations/add?to=Masstrix)<br>
-Twitter: [@Masstrix](https://twitter.com/Masstrix)
-
-<h2 align="center">Stats</h2>
+<br>
+<br>
+<br>
 <p align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Masstrix&count_private=true&show_icons=true&theme=dark" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masstrix&theme=dark&layout=compact&langs_count=6" />
+    <img src="https://forthebadge.com/images/badges/made-with-crayons.svg">
+</p>
+
+<p align="center" style="display: flex; column-gap: 100px; justify-content: center">
+    <a href="https://www.spigotmc.org/members/masstrix.12857/">SpigotMC</a>
+    <a href="https://instagram.com/matthewrdenton">Instagram</a>
 </p>
