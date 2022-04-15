@@ -1,8 +1,9 @@
-## Hi there 👋
+## Heyoo! You found me
 
 I'm Matthew, I'm an artist who enjoys spending some time working on both creative and technical projects.
 
 🌱 Always learning something new. <br>
+🐸 I sculpt frogs in my spare time. <br>
 
 <br>
 <br>
