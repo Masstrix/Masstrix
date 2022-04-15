@@ -1,4 +1,4 @@
-## Heyoo! You found me
+<h2 align="center">Heyoo! You found me</h2>
 
 I'm Matthew, I'm an artist who enjoys spending some time working on both creative and technical projects.
 
