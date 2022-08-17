@@ -13,6 +13,7 @@ I'm Matthew, I'm an artist who enjoys spending some time working on both creativ
 </p>
 
 <p align="center" style="display: flex; column-gap: 100px; justify-content: center">
-    <a href="https://www.spigotmc.org/members/masstrix.12857/">SpigotMC</a>
-    <a href="https://instagram.com/matthewrdenton">Instagram</a>
+    <a href="https://www.spigotmc.org/members/masstrix.12857/">SpigotMC</a> •
+    <a href="https://instagram.com/matthewrdenton">Instagram</a> •
+    <a href="https://www.artstation.com/matthewdenton">Artstation</a>
 </p>
