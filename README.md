@@ -10,7 +10,7 @@ I'm Matthew, I'm an artist who enjoys spending some time working on both creativ
 <h3 align="center">Topics</h3>
 <p align="center">
     <a href="https://github.com/Masstrix?tab=repositories&q=maya">Maya Tools</a> •
-    <a href="https://github.com/Masstrix?tab=repositories&q=maya">Minecraft</a>
+    <a href="https://github.com/Masstrix?tab=repositories&q=minecraft">Minecraft</a>
 </p>
 <br>
 <br>
