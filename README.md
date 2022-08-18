@@ -6,6 +6,12 @@ I'm Matthew, I'm an artist who enjoys spending some time working on both creativ
 🐸 I sculpt frogs in my spare time. <br>
 
 <br>
+
+<h3 align="center">Topics</h3>
+<p align="center">
+    <a href="https://github.com/Masstrix?tab=repositories&q=maya">Maya Tools</a> •
+    <a href="https://github.com/Masstrix?tab=repositories&q=maya">Minecraft</a>
+</p>
 <br>
 <br>
 <p align="center">
